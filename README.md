@@ -23,11 +23,3 @@ Ejecución de múltiples casos de prueba.
 Manejo de errores y respuestas no JSON.
 Separación de la lógica del cliente API y los tests.
 
-🛠️ Tecnologías y herramientas utilizadas
-
-Python
-Requests
-
-API pública: JSONPlaceholder
-
-PyCharm
